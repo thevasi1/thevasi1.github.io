@@ -21,5 +21,6 @@ export default {
     name:"name",
     email:"email",
     idea:"idea",
-    send:"send"
+    send:"send",
+    loading: "loading"
 };
